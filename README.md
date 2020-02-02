@@ -1,21 +1,21 @@
 <h1 align="center">
-    <img alt="Aircnc" src=".github/logo.png" width="250px" />
+    <img alt="AirCnC" src=".github/logo.png" width="250px" />
 </h1>
 
 <h4 align="center">
   ☕ Code and coffee
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/FelipeLarsen/AirCnc.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/FelipeLarsen/AirCnC.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/FelipeLarsen/AirCnc.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/FelipeLarsen/AirCnC.svg">
   
-  <a href="https://github.com/FelipeLarsen/semana-omnistack-9/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/FelipeLarsen/AirCnc.svg">
+  <a href="https://github.com/FelipeLarsen/AirCnC/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/FelipeLarsen/AirCnC.svg">
   </a>
 
   <a href="https://github.com/FelipeLarsen/AirCnc/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/FelipeLarsen/AirCnc.svg">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/FelipeLarsen/AirCnC.svg">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/aircnc.png" width="100%">
+  <img alt="Frontend" src=".github/AirCnC.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
