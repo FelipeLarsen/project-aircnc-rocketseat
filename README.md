@@ -49,5 +49,3 @@ O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desen
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
